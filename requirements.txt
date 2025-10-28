@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+joblib
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dateutil
+rich
